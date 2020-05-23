@@ -1,0 +1,3 @@
+this is pull file
+its sync with remote to local repo
+otherwise  git fetch+merge = git pull
